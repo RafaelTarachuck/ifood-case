@@ -1,4 +1,4 @@
-# Case Técnico Data Architect - iFood
+# Case Técnico Data Engineer - iFood
 
 ![iFood](https://img.shields.io/badge/iFood-Data_Architecture-EA1D2C)
 
