@@ -119,11 +119,3 @@ Implementei uma estratégia de ingestão em duas etapas:
 2. Processamento e disponibilização em BigQuery (dados tratados)
 
 Esta abordagem permite manter os dados originais intactos enquanto oferece uma camada otimizada para consultas analíticas.
-
-## 👤 Autor
-
-Rafael Tarachuck
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
